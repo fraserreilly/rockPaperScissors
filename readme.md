@@ -1,6 +1,6 @@
 # Rock Paper Scissors!
 
-Allows you to play rock, paper scissors vs python in the console!
+Allows you to play rock, paper scissors vs python in the cli!
 
 ### Requirements:
 
